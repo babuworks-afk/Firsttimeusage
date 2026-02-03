@@ -1,0 +1,15 @@
+Hello World!
+
+Name: Gnanesh
+Course: Computer Science
+Lab: GitHub Version Control Assignment
+
+This repository demonstrates:
+- Creating a public GitHub repository
+- Adding files to a repository
+- Creating and working with branches
+- Making commits
+- Opening and merging pull requests
+- Forking a repository and contributing via pull requests
+
+This file was created as part of the GitHub lab assignment.
